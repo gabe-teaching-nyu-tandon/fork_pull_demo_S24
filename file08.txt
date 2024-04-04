@@ -1,1 +1,3 @@
 First line
+
+Adding a new line, this is file 8
