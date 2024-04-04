@@ -1,3 +1,6 @@
 First line
 
 Adding a new line, this is file 8
+
+New line again, after first commit.
+
